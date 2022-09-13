@@ -1,0 +1,18 @@
+{
+  "name": "mediavine-test",
+  "version": "1.0.0",
+  "keywords": [
+    "cypress"
+  ],
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "Filip Hric (https://filiphric.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.7.16",
+    "cypress": "^10.7.0",
+    "serve": "^14.0.1",
+    "typescript": "^4.8.3"
+  }
+}
